@@ -1,6 +1,9 @@
 # Parasite Styling
 Face detecting to add a censorship bar over the eyes like the 'Parasite' movie poster.
 
+## 소개
+
+
 ## 사용법
 
 ## 사용 예시
@@ -12,3 +15,6 @@ Face detecting to add a censorship bar over the eyes like the 'Parasite' movie p
 
 ![output_image](https://github.com/illboi1/parasite-styling/assets/88954347/521fbb71-3cef-4ff6-8293-aaf31ec3c11b)
 
+![2024020811184781446_1](https://github.com/illboi1/parasite-styling/assets/88954347/f5efd640-439f-4691-bc86-3e070e43d68e)
+
+![output_image](https://github.com/illboi1/parasite-styling/assets/88954347/4375e2c4-abf5-44f2-890f-d8b542774678)
