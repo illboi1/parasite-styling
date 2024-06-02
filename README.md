@@ -18,3 +18,7 @@ Face detecting to add a censorship bar over the eyes like the 'Parasite' movie p
 ![2024020811184781446_1](https://github.com/illboi1/parasite-styling/assets/88954347/f5efd640-439f-4691-bc86-3e070e43d68e)
 
 ![output_image](https://github.com/illboi1/parasite-styling/assets/88954347/4375e2c4-abf5-44f2-890f-d8b542774678)
+
+![AKR20200110125500005_01_i](https://github.com/illboi1/parasite-styling/assets/88954347/820a0f37-a820-4eb5-b75f-13dc06f714aa)
+
+![output_image](https://github.com/illboi1/parasite-styling/assets/88954347/a40858c3-233e-4de1-8225-2a644781ef51)
