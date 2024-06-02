@@ -2,10 +2,16 @@
 Face detecting to add a censorship bar over the eyes like the 'Parasite' movie poster.
 
 ## 소개
+영화 기생충 스타일로 사진, 이미지를 꾸미도록 도와주는 기능.
+정면 얼굴을 탐지해서 눈을 찾아주고, 검열 바를 눈가에 씌워준다.
+![image](https://github.com/illboi1/parasite-styling/assets/88954347/28f138f4-1684-4b65-a9d8-c5c0c659dd14)
+
 ![image](https://github.com/illboi1/parasite-styling/assets/88954347/785d0da1-2c25-4e4c-99b5-778316538bec)
 
 
 ## 사용법
+OpenCV에서 읽어들일 수 있는 이미지의 경로를 설정.
+스크립트를 실행시키면 결과물을 저장하고 화면에 출력한다.
 
 ## 사용 예시
 ![107446052_1_1661554444_w360](https://github.com/illboi1/parasite-styling/assets/88954347/f7b9e554-370b-436b-9e17-d8955faa7f66)
